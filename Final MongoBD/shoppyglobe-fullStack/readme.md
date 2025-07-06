@@ -118,7 +118,7 @@ shoppyglobe/
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone "https://github.com/Omkar0210/Build-APIs-with-Node.js-and-Express.js-for-Shoppyglobe-E-commerce.git"
    cd shoppyglobe-fullStack
    ```
 
